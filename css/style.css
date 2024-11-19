@@ -48166,13 +48166,13 @@ div#baby-wizard {
 }
 
 #baby-wizard-mobile .blue-gauge {
-  background-color: #001cc3;
+  background-color: #414BB2;
 }
 
 #baby-wizard-mobile .circle-button {
   width: 32px;
   height: 32px;
-  background-color: #001cc3;
+  background-color: #414BB2;
 }
 
 #baby-wizard-mobile .circle-button svg {
@@ -48215,7 +48215,7 @@ div#baby-wizard {
 #baby-wizard-mobile .toggle:checked + .toggle-label {
   -webkit-box-shadow: inset 0 0 0 20px #3259ee, 0 0 0 0px #3259ee;
   -moz-box-shadow: inset 0 0 0 20px #3259ee, 0 0 0 0px #3259ee;
-  box-shadow: inset 0 0 0 20px #001cc3, 0 0 0 0px #001cc3;
+  box-shadow: inset 0 0 0 20px #414BB2, 0 0 0 0px #414BB2;
 }
 
 #baby-wizard-mobile .toggle:checked + .toggle-label:after {
